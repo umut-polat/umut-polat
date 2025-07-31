@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Umut Polat 👋
 
-<!--
-**umut-polat/umut-polat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Cloud & DevOps Engineer with a passion for building scalable platforms, automating infrastructure, and exploring AI-powered solutions. Experienced in OpenStack, Kubernetes, containerization, and modern cloud-native technologies. I enjoy solving complex problems, sharing knowledge, and leading technical projects. Always curious, always learning.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on public & private cloud platforms and AI integration
+- 🛠️ Favorite tools: Linux, Python, Go, Docker, Kubernetes
+- 📖 Always exploring new tech trends and open-source projects
+- 👥 Board Member & Community Lead at Linux Evi Association, advocating open source and Linux adoption
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=linux,linux,linux,linux,linux,linux&perline=14" />
+ </p>
+
+
+ 
