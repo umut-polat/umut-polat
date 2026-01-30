@@ -1,16 +1,17 @@
-### Hi, I'm Umut Polat
+I design and reason about systems.
 
-Cloud & Platform Engineer with a strong Linux and computer science background.
+For years, my work has focused on building cloud and platform architectures by understanding how systems behave from the ground up — from infrastructure and operating systems to distributed services and applications.
 
-I work across infrastructure and development, focusing on designing and operating systems as a whole — from the underlying platform to the services running on top of it. I care about how systems behave in real conditions: performance, failure, scalability, and maintainability.
+My background is strongly rooted in Linux and computer science. I spend most of my time thinking about system boundaries, failure modes, performance characteristics, and long-term maintainability, rather than individual tools or short-term solutions.
 
-My work usually sits at the intersection of Linux, distributed systems, backend development, and cloud platforms. Recently, I’ve been spending more time on AI infrastructure and large-scale model serving from a systems perspective.
+I’ve been involved in designing and evolving large-scale platforms, where infrastructure, software, and operations are treated as a single architectural problem. More recently, this perspective has extended into AI infrastructure and large-scale model serving.
 
-I enjoy learning by building, keeping things simple, and understanding the trade-offs behind the abstractions we use.
+I prefer simple, well-reasoned systems, clear trade-offs, and designs that can survive real-world usage.
 
-- Interested in designing systems that span infrastructure, software, and operations 
-- Strong Linux and open-source focus  
+- System and platform architecture  
+- Linux and open-source focused  
 - Board Member & Community Lead at **Linux Evi Association**
+
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="48" />
